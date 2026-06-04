@@ -8,7 +8,7 @@ Practical skills for LLM agents. Works with any AI tool that accepts a system pr
 
 | Skill | Description |
 |---|---|
-| `research-quality` | Rigorous research and writing discipline — no invented facts, minimal footprint, explicit confidence levels |
+| `research-quality` | Rigorous research, writing, and editing discipline. Never invents facts or fills gaps with plausible-sounding numbers. States assumptions upfront, distinguishes verified claims from estimates, touches only what was asked, and delivers concrete outputs with a clear completion state. Inspired by [Karpathy's vibe coding rules](https://karpathy.ai/vibe-coding), adapted for knowledge work. |
 
 ---
 
