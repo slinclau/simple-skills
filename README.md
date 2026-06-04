@@ -1,5 +1,7 @@
 # simple-skills
 
+[![Latest release](https://img.shields.io/github/v/release/slinclau/simple-skills)](https://github.com/slinclau/simple-skills/releases/latest)
+
 Practical skills for LLM agents. Works with any AI tool that accepts a system prompt — coding agents, chat assistants, API integrations, and more.
 
 ---
