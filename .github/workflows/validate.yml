@@ -24,7 +24,6 @@ jobs:
         with:
           args: >
             --exclude-loopback
-            --exclude-mail
             --max-retries 3
             --timeout 20
             "**/*.md"
