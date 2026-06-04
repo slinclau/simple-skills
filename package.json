@@ -1,6 +1,6 @@
 {
   "name": "simple-skills",
   "version": "1.0.0",
-  "description": "A collection of practical skills for LLM coding agents.",
+  "description": "A collection of practical skills for LLM agents.",
   "license": "MIT"
 }
